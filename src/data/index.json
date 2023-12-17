@@ -1,0 +1,85 @@
+{
+  "aboutme": [
+    {
+      "id": "0",
+      "src": "./img/about-me.png",
+      "title": "About-Me",
+      "description": "Hello! I'm Yono, a Fullstack Web Developer with a profound passion for the world of technology and creativity. I believe that web development isn't just about codes; it's about delivering an extraordinary digital experience for users. My experience and knowledge encompass developing web applications from inception to completion. With expertise in programming languages like HTML, CSS, JavaScript, PHP, and frameworks such as Laravel, CodeIgniter, React, and Node.js, I'm capable of designing and developing captivating interfaces along with robust functionality. I enjoy merging appealing design with intuitive functionality to create a superior user experience. My ability to understand user needs and implement them into technical solutions enables me to produce useful and user-friendly applications. Beyond technical skills, I am dedicated to continuous improvement. I love learning new technologies and advancing my skills. My involvement in the developer community also keeps me connected with the latest trends and best practices in this industry. When I'm not busy developing applications or solving technical challenges, I like to spend time exploring side projects related to technology, reading the latest articles, or even sharing my knowledge through blogs or forums. I believe that every project is an opportunity to learn, grow, and create something exceptional. I'm excited to continue crafting innovative solutions that bring added value to users and clients. Thank you for taking the time to learn about me. I'm eager to collaborate, learn, and contribute to challenging projects in the web development world."
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "As a Front-end Developer, I have embarked on an extensive journey in crafting remarkable user experiences on the web. I possess skills in translating visual designs into dynamic and captivating user interfaces using a blend of HTML, CSS, JavaScript, and PHP. Through the utilization of various frameworks such as Laravel, CodeIgniter, VueJS, and ReactJS, I have successfully created responsive layouts, ensuring alignment between design and functionality while optimizing application performance on the client-side. My experience in adapting code for various devices and different browsers allows me to deliver consistent and optimal user experiences across multiple platforms. Additionally, my ability to collaborate with design teams and backend development enables me to serve as a strong bridge in delivering technical solutions that align comprehensively with project needs."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "As a Back-end Developer, I have delved into various aspects of development that ensure the application runs efficiently and reliably on the server side. My experience includes database development using technologies such as MySQL and MongoDB, as well as handling HTTP requests using Node.js. I possess expertise in crafting complex business logic and building scalable infrastructures to handle data securely and efficiently. Furthermore, I have a strong understanding of version control using tools like Git and implementing best practices in web security to safeguard applications from potential security threats. My ability to design clean and efficient APIs enables seamless integration between different components within an application. Close collaboration with Front-end teams and a strong understanding of user needs allow me to deliver back-end solutions that enhance overall application performance and reliability."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": " As a UI/UX Designer, I am committed to creating visually engaging digital experiences centered around users. My expertise lies in understanding user behavior and transforming it into an intuitive, captivating, and visually appealing interface. By employing design principles, prototyping tools, and user research methodologies, I craft seamless user journeys with a focus on usability and accessibility. My proficiency in using tools like Sketch and Figma enables me to effectively create prototypes and refine designs, ensuring alignment with user needs and business objectives. Furthermore, my collaborative approach with cross-functional teams, including developers and stakeholders, allows me to merge design concepts with practical implementation, resulting in consistent and meaningful digital products."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": " As a Webflow developer, I specialize in creating stunning and responsive websites without the need for manual code writing. Understanding the intuitive workflow of Webflow, I craft engaging web designs, optimize user experiences, and ensure compatibility across various devices. My strength lies in leveraging Webflow's advantages in responsive design and animations without compromising functionality. I also possess skills in integrating and customizing specific features into Webflow projects, ensuring optimal website performance. Collaborating with UI/UX designers and stakeholders aids me in designing and developing websites that effectively meet both business objectives and user needs."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}

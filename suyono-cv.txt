@@ -1,0 +1,39 @@
+Portofolio ReactJS
+
+buat folder suyono-cv
+buka vs-code
+buka terminal > buat folder > 
+
+$ npx create-react-app .
+repleace file package.json dari file
+jika belum ada 
+$ npm install react-scroll --save
+repleace file .gitignore dari file
+folder public > delete > ambil copy dari file 
+$ npm i
+$ npm start
+delete > src/setupTests.js, reportWebVitals.js, logo.svg, index.css,... {sisakan App.css, App.js, index.js}
+isi App.css {hapus semua}
+$ npm install react-router-dom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
