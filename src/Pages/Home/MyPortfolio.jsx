@@ -26,33 +26,33 @@ export default function MyPortfolio() {
           </a>
         </div>
       </div>
-      <div className="portfolio--section--container">
-        {/* Mapping data dari portfolio untuk menampilkan kartu-kartu proyek */}
-        {data?.portfolio?.map((item, index) => (
-          <div key={index} className="portfolio--section--card">
-            <div className="portfolio--section--img">
-              {/* Menampilkan gambar proyek */}
-              <img src={item.src} alt="Placeholder" />
-            </div>
-            <div className="portfolio--section--card--content">
-              <div>
+      {/* <div className="portfolio--section--container"> */}
+      {/* Mapping data dari portfolio untuk menampilkan kartu-kartu proyek */}
+      {/* {data?.portfolio?.map((item, index) => ( */}
+      {/* <div key={index} className="portfolio--section--card"> */}
+      {/* <div className="portfolio--section--img"> */}
+      {/* Menampilkan gambar proyek */}
+      {/* <img src={item.src} alt="Placeholder" /> */}
+      {/* </div> */}
+      {/* <div className="portfolio--section--card--content"> */}
+      {/* <div>
                 <h3 className="portfolio--section--title">{item.title}</h3>
                 <p className="text-md">{item.description}</p>
-              </div>
-              <p className="text-sm portfolio--link">
-                {/* Tautan eksternal menuju proyek */}
-                <a href={item.link} target="_blank" rel="noopener noreferrer">
-                  {" "}
-                  {item.link} {/* Menampilkan tautan proyek */}
-                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 20 19" fill="none">
-                    {/* ... (path SVG lainnya) */}
-                  </svg>
-                </a>
-              </p>
-            </div>
+              </div> */}
+      {/* <p className="text-sm portfolio--link"> */}
+      {/* Tautan eksternal menuju proyek */}
+      {/* <a href={item.link} target="_blank" rel="noopener noreferrer"> */}
+      {/* {""} */}
+      {/* {item.link} Menampilkan tautan proyek */}
+      {/* <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 20 19" fill="none"> */}
+      {/* ... (path SVG lainnya) */}
+      {/* </svg> */}
+      {/* </a> */}
+      {/* </p> */}
+      {/* </div>
           </div>
-        ))}
-      </div>
+        ))} */}
+      {/* </div> */}
     </section>
   );
 }
